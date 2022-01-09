@@ -9,22 +9,22 @@ The purpose of this project is to refactor the code that was created to help Ste
 ### Compare the stock performance between 2017 and 2018
 According to the table for 2017 stock analysis, 11 out of 12 stocks resulted in positive returns, which means the investments for these stocks grew in 2017. Only "TERP" stock shrunk by 7.2% in 2017. According to the table for 2018 stock analysis, 10 out of 12 stocks resulted in negative returns and only "ENPH" and "RUN" stocks grew in 2018. The stocks performed better in 2017 compared to 2018.
 
-![2017_stock_result](resources/2017_Stock_Analysis_Result.png)
-![2018_stock_result](resources/2018_Stock_Analysis_Result.png)
+![2017_stock_result](Resources/2017_Stock_Analysis_Result.png)
+![2018_stock_result](Resources/2018_Stock_Analysis_Result.png)
 
 
 ### The execution times of the original script and the refactored script
 The execution time of the original script for 2017: 0.601562 seconds
-![2017_original](resources/2017_Run_Time_for_original_script.png)
+![2017_original](Resources/2017_Run_Time_for_original_script.png)
 
 The execution time of the refactored script for 2017: 0.1171875 seconds
-![2018_original](resources/2018_Run_Time_for_original_script.png)
+![2018_original](Resources/2018_Run_Time_for_original_script.png)
 
 The execution time of the original script for 2018: 0.5585938 seconds
-![2017_refactored](resources/2017_Run_Time_for_refactored_script.png)
+![2017_refactored](Resources/2017_Run_Time_for_refactored_script.png)
 
 The execution time of the refactored script for 2018: 0.1132812 seconds
-![2018_refactored](resources/2018_Run_Time_for_refactored_script.png)
+![2018_refactored](Resources/2018_Run_Time_for_refactored_script.png)
 
 As shown on the above, the execution time of the refactored script was much faster than the original script.
 
