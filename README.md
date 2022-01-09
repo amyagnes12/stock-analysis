@@ -18,10 +18,10 @@ The execution time of the original script for 2017: 0.601562 seconds
 ![2017_original](Resources/2017_Run_Time_for_original_script.png)
 
 The execution time of the refactored script for 2017: 0.1171875 seconds
-![2018_original](Resources/2018_Run_Time_for_original_script.png)
+![2017_refactored](Resources/2017_Run_Time_for_refactored_script.png)
 
 The execution time of the original script for 2018: 0.5585938 seconds
-![2017_refactored](Resources/2017_Run_Time_for_refactored_script.png)
+![2018_original](Resources/2018_Run_Time_for_original_script.png)
 
 The execution time of the refactored script for 2018: 0.1132812 seconds
 ![2018_refactored](Resources/2018_Run_Time_for_refactored_script.png)
